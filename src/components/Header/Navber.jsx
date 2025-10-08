@@ -64,7 +64,7 @@ const Navber = () => {
             <div className="navbar-center hidden lg:flex">{menuItems}</div>
             <div className="navbar-end ">
               <Link
-                to="https://github.com/osmanzakaria532/hero-apps"
+                to="https://github.com/osmanzakaria532/"
                 target="_blank"
                 className="flex items-center bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white p-2  md:py-3 md:px-4 font-semibold rounded-lg"
               >

@@ -6,7 +6,7 @@ const RootLayout = () => {
   return (
     <>
       <Navber />
-      <div className="max-w-[1200px] mx-auto px-3 xl:px-0">
+      <div>
         <Outlet />
       </div>
       <Footer />
