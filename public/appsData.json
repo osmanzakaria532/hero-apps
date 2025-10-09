@@ -1,0 +1,507 @@
+[
+  {
+    "id": 1,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-136.webp",
+    "title": "ChatMaster",
+    "companyName": "TechCorp",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 45,
+    "reviews": 1500,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 650 }
+    ]
+  },
+
+  {
+    "id": 2,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-135.webp",
+    "title": "FitTrack",
+    "companyName": "HealthPro",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 32,
+    "reviews": 2000,
+    "ratingAvg": 4.3,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 800 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-134.webp",
+    "title": "Foodie",
+    "companyName": "YumLabs",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 50,
+    "reviews": 3500,
+    "ratingAvg": 4.7,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 1900 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-133.webp",
+    "title": "TravelBuddy",
+    "companyName": "Wanderlust Inc",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum ollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 60,
+    "reviews": 1100,
+    "ratingAvg": 4.2,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 320 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-005.webp",
+    "title": "PhotoSnap",
+    "companyName": "SnapWorks",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis.. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 75,
+    "reviews": 2700,
+    "ratingAvg": 4.6,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1220 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-006.webp",
+    "title": "LearnLang",
+    "companyName": "EduZone",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem.",
+    "size": 28,
+    "reviews": 800,
+    "ratingAvg": 4.1,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 270 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-007.webp",
+    "title": "BudgetBuddy",
+    "companyName": "FinancePro",
+    "description": "Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 35,
+    "reviews": 1500,
+    "ratingAvg": 4.4,
+    "downloads": 550000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 580 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-008.webp",
+    "title": "MusicWave",
+    "companyName": "BeatLabs",
+    "description": "Stream your favorite songs and create playlists.",
+    "size": 65,
+    "reviews": 4000,
+    "ratingAvg": 4.8,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 2480 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-009.webp",
+    "title": "DailyNews",
+    "companyName": "InfoStream",
+    "description": "Sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 40,
+    "reviews": 900,
+    "ratingAvg": 4.0,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 260 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-010.webp",
+    "title": "MindCalm",
+    "companyName": "WellnessTech",
+    "description": "Consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 55,
+    "reviews": 1300,
+    "ratingAvg": 4.5,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 625 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-011.webp",
+    "title": "ShopEase",
+    "companyName": "EcomWorld",
+    "description": "Adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 70,
+    "reviews": 2200,
+    "ratingAvg": 4.4,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 900 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-012.webp",
+    "title": "GameZone",
+    "companyName": "PlayMaster",
+    "description": "Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 120,
+    "reviews": 5000,
+    "ratingAvg": 4.7,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 550 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-013.webp",
+    "title": "QuickNotes",
+    "companyName": "NoteLabs",
+    "description": "Sorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 20,
+    "reviews": 950,
+    "ratingAvg": 4.3,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 420 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-014.webp",
+    "title": "TaskFlow",
+    "companyName": "ProTools",
+    "description": "Norem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 28,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 470000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 530 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-015.webp",
+    "title": "AIStudy",
+    "companyName": "LearnTech",
+    "description": "Korem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 32,
+    "reviews": 1000,
+    "ratingAvg": 4.4,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 445 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-016.webp",
+    "title": "FocusMate",
+    "companyName": "ZenApps",
+    "description": "Rem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 22,
+    "reviews": 900,
+    "ratingAvg": 4.2,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 410 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-017.webp",
+    "title": "MindOrganizer",
+    "companyName": "IdeaFlow",
+    "description": "Organize ideas, tasks, and notes in one app.",
+    "size": 36,
+    "reviews": 1100,
+    "ratingAvg": 4.5,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 430 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-018.webp",
+    "title": "AIPlannerPro",
+    "companyName": "SmartOrg",
+    "description": "AI orem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 38,
+    "reviews": 1200,
+    "ratingAvg": 4.6,
+    "downloads": 480000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 55 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 450 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-019.webp",
+    "title": "NoteSync",
+    "companyName": "DataSync",
+    "description": "Oem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 25,
+    "reviews": 950,
+    "ratingAvg": 4.3,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 420 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-020.webp",
+    "title": "ProjectManager",
+    "companyName": "TeamTools",
+    "description": "Manage projects efficiently and track progress.",
+    "size": 45,
+    "reviews": 1400,
+    "ratingAvg": 4.5,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 625 }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-021.webp",
+    "title": "IdeaSync",
+    "companyName": "MindTools",
+    "description": "Vrem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 33,
+    "reviews": 1100,
+    "ratingAvg": 4.4,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 430 }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-022.webp",
+    "title": "TimeOptimizer",
+    "companyName": "ProTools",
+    "description": "Qrem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 30,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 470000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 530 }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-023.webp",
+    "title": "AIWriter",
+    "companyName": "SmartContent",
+    "description": "Ipsum dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 28,
+    "reviews": 900,
+    "ratingAvg": 4.3,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 410 }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-024.webp",
+    "title": "FocusTimer",
+    "companyName": "ZenApps",
+    "description": "Pomodoro timer app to boost productivity dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis.",
+    "size": 22,
+    "reviews": 800,
+    "ratingAvg": 4.2,
+    "downloads": 290000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 360 }
+    ]
+  },
+  {
+    "id": 25,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-025.webp",
+    "title": "SmartPlanner",
+    "companyName": "OrgTech",
+    "description": "Plan your day intelligently with AI recommendations. dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis",
+    "size": 38,
+    "reviews": 1100,
+    "ratingAvg": 4.5,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 430 }
+    ]
+  },
+  {
+    "id": 26,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-026.webp",
+    "title": "SmartPlanner",
+    "companyName": "OrgTech",
+    "description": "Plan your day intelligently with AI recommendations. dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis",
+    "size": 38,
+    "reviews": 1100,
+    "ratingAvg": 4.5,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 430 }
+    ]
+  },
+  {
+    "id": 27,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-027.webp",
+    "title": "SmartPlanner",
+    "companyName": "OrgTech",
+    "description": "Plan your day intelligently with AI recommendations. dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis",
+    "size": 38,
+    "reviews": 1100,
+    "ratingAvg": 4.5,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 430 }
+    ]
+  },
+  {
+    "id": 28,
+    "image": "https://hero-apps.pages.dev/app-logo/icon-028.webp",
+    "title": "SmartPlanner",
+    "companyName": "OrgTech",
+    "description": "Plan your day intelligently with AI recommendations. dolor sit amet consectetur adipisicing elit. Mollitia ad enim expedita? Mollitia ab natus molestias quia reprehenderit labore. Rerum laborum cupiditate voluptatum, architecto culpa ducimus eaque assumenda nam est necessitatibus fuga quis debitis nisi officiis natus minima, incidunt facilis quas alias iure ipsam? Ad sit perspiciatis commodi dicta, qui modi quis eveniet sint ipsum rem harum nisi doloremque in beatae cumque quae ex error suscipit nesciunt ea veniam delectus veritatis. Officia voluptatem voluptate sunt. Beatae non reprehenderit odit, culpa ex, nihil reiciendis explicabo quasi expedita laboriosam veritatis suscipit rerum cumque. Excepturi ut blanditiis voluptatem dolore itaque quam quibusdam cupiditate non aperiam, cum rerum, esse, repellat neque alias unde mollitia veniam natus earum eos maiores vero. Reprehenderit laboriosam, esse neque veritatis ut dolores laborum praesentium voluptatum, rerum quasi consectetur eius quod enim tempora dicta possimus in rem dolore, quaerat nam. Iusto provident perferendis fugiat quaerat ut exercitationem optio quasi voluptatem! Tenetur eveniet maiores, debitis quia repellendus tempore aliquid laboriosam voluptatum, nisi, distinctio natus perspiciatis. Ipsa, sunt itaque ad ipsam obcaecati enim quisquam dolorem quasi iusto inventore illo cupiditate quas nesciunt architecto. Adipisci excepturi ex accusantium repudiandae ipsam nam, vel saepe molestias velit minima, eos voluptatibus cum necessitatibus autem porro perferendis neque sequi, temporibus sit illum blanditiis laudantium. Accusantium consectetur hic qui. Tenetur minus consequatur pariatur, nulla vero inventore quia asperiores, mollitia aut veniam corporis non. Impedit saepe unde ipsam tempore aspernatur error modi beatae animi autem. Rem atque labore sint numquam nobis harum delectus illum repudiandae iusto repellat eaque quia eos earum magnam accusamus voluptate assumenda ipsa distinctio, excepturi quibusdam odio, cumque dolorem fugiat quas. In neque labore optio debitis voluptatem, quos modi. Iure saepe maiores aut voluptatum voluptatibus dolore at distinctio eaque tempore nisi aliquam vitae ducimus eos esse ipsa quasi doloribus, ab repellendus molestias incidunt. Earum, commodi blanditiis",
+    "size": 38,
+    "reviews": 1100,
+    "ratingAvg": 4.5,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 430 }
+    ]
+  }
+]
