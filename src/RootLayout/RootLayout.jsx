@@ -1,23 +1,21 @@
-import { Suspense } from "react";
-import { Outlet } from "react-router";
+import { Outlet, useNavigation } from "react-router";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Footer from "../components/Footer/Footer";
 import Navber from "../components/Header/Navber";
 
+import { Suspense } from "react";
+import LoadingSpinner from "../components/LoadingSpinner/LoadingSpinner";
+
 const RootLayout = () => {
+  const navigation = useNavigation();
   return (
     <>
       <Navber />
-      <Suspense
-        fallback={
-          <div className="flex items-center justify-center h-screen">
-            <p>Loading content...</p>
-          </div>
-        }
-      >
+      <div>
+        {navigation.state === "loading" && <LoadingSpinner />}
         <Outlet />
-      </Suspense>
+      </div>
       <ToastContainer />
       <Footer />
     </>

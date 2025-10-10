@@ -1,10 +1,7 @@
-import { useNavigate } from "react-router";
-
 import AppNotFoundImg from "../../../src/assets/App-Error.png";
 import Flex from "../sharedLayout/Flex";
 
-const AppNotFound = () => {
-  const navigate = useNavigate();
+const AppNotFound = ({ navigate }) => {
   return (
     <>
       <Flex className="justify-center items-center text-center">
@@ -24,8 +21,8 @@ const AppNotFound = () => {
             another apps
           </p>
           <button
-            onClick={() => navigate("/apps")}
-            className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] py-2 md:py-4 px-10 rounded-lg text-white"
+            onClick={() => navigate(-1)}
+            className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] py-2 md:py-4 px-10 rounded-lg text-white cursor-pointer"
           >
             Go Back
           </button>

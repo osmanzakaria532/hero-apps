@@ -1,4 +1,3 @@
-import { Suspense } from "react";
 import { createBrowserRouter } from "react-router";
 
 import RootLayout from "../RootLayout/RootLayout";
@@ -16,29 +15,17 @@ export const router = createBrowserRouter([
       {
         index: true,
         loader: () => fetch("/appsData.json"),
-        Component: () => (
-          <Suspense fallback={<p>Loading Home...</p>}>
-            <Home />
-          </Suspense>
-        ),
+        Component: Home,
       },
       {
         path: "/apps",
         loader: () => fetch("/appsData.json"),
-        Component: () => (
-          <Suspense fallback={<p>Loading Apps...</p>}>
-            <Apps />
-          </Suspense>
-        ),
+        Component: Apps,
       },
       {
         path: "/apps/appDetails/:id",
         loader: ({ params }) => fetch("/appsData.json"),
-        Component: () => (
-          <Suspense fallback={<p>Loading Details...</p>}>
-            <AppDetails />
-          </Suspense>
-        ),
+        Component: AppDetails,
       },
       {
         path: "/installation",

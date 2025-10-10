@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { useNavigate } from "react-router";
 import Flex from "../../components/sharedLayout/Flex";
 
 import downloadImg from "../../../src/assets/icon-downloads.png";
@@ -9,6 +10,7 @@ import AppNotFound from "../../components/AppNotFound/AppNotFound";
 const Installation = () => {
   const [installedApps, setInstalledApps] = useState([]);
   console.log(installedApps);
+  const navigate = useNavigate();
 
   useEffect(() => {
     const savedApps = JSON.parse(localStorage.getItem("installedApps"));
@@ -26,7 +28,7 @@ const Installation = () => {
       <div className="max-w-[1200px] mx-auto px-3 xl:px-0">
         <div>
           {installedApps.length === 0 ? (
-            <AppNotFound />
+            <AppNotFound navigate={navigate} />
           ) : (
             <>
               {/* Header */}
