@@ -1,30 +1,37 @@
-import { useEffect, useState } from "react";
+import { useState, useEffect } from "react";
 import { useLoaderData, useNavigate } from "react-router";
 import AppNotFound from "../../components/AppNotFound/AppNotFound";
 import Card from "../../components/Card/Card";
-import LoadingSpinner from "../../components/LoadingSpinner/LoadingSpinner";
 import Flex from "../../components/sharedLayout/Flex";
+import LoadingSpinner from "../../components/LoadingSpinner/LoadingSpinner";
 
 const Apps = () => {
-  const [searchTerm, setSearchTerm] = useState("");
-  const [filteredApps, setFilteredApps] = useState([]);
   const AppsData = useLoaderData();
   const navigate = useNavigate();
 
+  const [searchTerm, setSearchTerm] = useState("");
+  const [filteredApps, setFilteredApps] = useState(AppsData);
+  const [typing, setTyping] = useState(false);
+
+  // Debounced filtering
   useEffect(() => {
+    setTyping(true);
+
     const timeout = setTimeout(() => {
       const filtered = searchTerm
         ? AppsData.filter((app) =>
-            app.companyName?.toLowerCase().includes(searchTerm.toLowerCase())
+            app.title?.toLowerCase().includes(searchTerm.toLowerCase())
           )
         : AppsData;
+
       setFilteredApps(filtered);
-    }, 300); // debounce 300ms
+      setTyping(false);
+    }, 300); // 300ms debounce
 
     return () => clearTimeout(timeout);
   }, [searchTerm, AppsData]);
 
-  // Initialize filteredApps on first load
+  // Initialize filtered apps on first load
   useEffect(() => {
     setFilteredApps(AppsData);
   }, [AppsData]);
@@ -72,7 +79,7 @@ const Apps = () => {
               <input
                 type="search"
                 placeholder="Search"
-                value={searchTerm}
+                defaultValue={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
                 className="p-2 outline-none w-full"
               />
@@ -80,7 +87,9 @@ const Apps = () => {
           </div>
         </Flex>
 
-        {filteredApps.length > 0 ? (
+        {typing ? (
+          <LoadingSpinner />
+        ) : filteredApps.length > 0 ? (
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4 py-10">
             {filteredApps.map((app) => (
               <Card

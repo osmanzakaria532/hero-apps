@@ -21,7 +21,7 @@ const AppNotFound = ({ navigate }) => {
             another apps
           </p>
           <button
-            onClick={() => navigate(-1)}
+            onClick={() => navigate("/apps")}
             className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] py-2 md:py-4 px-10 rounded-lg text-white cursor-pointer"
           >
             Go Back
