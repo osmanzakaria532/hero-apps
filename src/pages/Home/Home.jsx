@@ -1,13 +1,10 @@
-import { useLoaderData } from "react-router";
-import { useState } from "react";
-import Banner from "../../components/Banner/Banner";
-import CardContainer from "../../components/CardContainer/CardContainer";
-import LoadingSpinner from "../../components/LoadingSpinner/LoadingSpinner";
+import { useLoaderData } from 'react-router';
+import Banner from '../../components/Banner/Banner';
+import CardContainer from '../../components/CardContainer/CardContainer';
 
 const Home = () => {
-  const [isLoading, setIsLoading] = useState(false);
+  // const [isLoading, setIsLoading] = useState(false);
   const AppsData = useLoaderData();
-  //   console.log(AppsData);
   return (
     <>
       {/* <LoadingSpinner /> */}

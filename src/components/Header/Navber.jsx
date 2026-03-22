@@ -1,6 +1,6 @@
-import { FaGithub } from "react-icons/fa";
-import { Link, NavLink } from "react-router";
-import navbar_logo from "../../../src/assets/logo.png";
+import { FaGithub } from 'react-icons/fa';
+import { Link, NavLink } from 'react-router';
+import navbar_logo from '../../../src/assets/logo.png';
 
 const Navber = () => {
   const menuItems = (
@@ -19,11 +19,7 @@ const Navber = () => {
           <div className="navbar">
             <div className="navbar-start">
               <div className="dropdown">
-                <div
-                  tabIndex={0}
-                  role="button"
-                  className="lg:hidden pr-2"
-                >
+                <div tabIndex={0} role="button" className="lg:hidden pr-2">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     className="h-5 w-5"
@@ -31,13 +27,13 @@ const Navber = () => {
                     viewBox="0 0 24 24"
                     stroke="currentColor"
                   >
-                    {" "}
+                    {' '}
                     <path
                       strokeLinecap="round"
                       strokeLinejoin="round"
                       strokeWidth="2"
                       d="M4 6h16M4 12h8m-8 6h16"
-                    />{" "}
+                    />{' '}
                   </svg>
                 </div>
                 <ul
@@ -47,15 +43,8 @@ const Navber = () => {
                   <li className="bg-white py-3">{menuItems}</li>
                 </ul>
               </div>
-              <Link
-                to="/"
-                className="flex items-center gap-1"
-              >
-                <img
-                  src={navbar_logo}
-                  alt=""
-                  className="w-[35px] md:w-[40px]"
-                />
+              <Link to="/" className="flex items-center gap-1">
+                <img src={navbar_logo} alt="" className="w-[30px] md:w-[40px]" />
                 <span className="md:text-lg font-bold  bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
                   HERO.IO
                 </span>
@@ -66,7 +55,7 @@ const Navber = () => {
               <Link
                 to="https://github.com/osmanzakaria532/"
                 target="_blank"
-                className="flex items-center bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white p-2  md:py-3 md:px-4 font-semibold rounded-lg"
+                className="flex items-center bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white py-1.5 px-2  md:py-3 md:px-4 font-semibold rounded-lg"
               >
                 <FaGithub className="mr-2" />
                 Contribute

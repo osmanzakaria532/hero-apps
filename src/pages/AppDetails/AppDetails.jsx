@@ -1,12 +1,25 @@
-import { useState, useEffect } from "react";
-import { useLoaderData, useParams } from "react-router";
-import { toast } from "react-toastify";
-import { Bar, BarChart, ResponsiveContainer, XAxis, YAxis } from "recharts";
+import { useEffect, useState } from 'react';
+import { useLoaderData, useParams } from 'react-router';
+import { toast } from 'react-toastify';
+import { Bar, BarChart, ResponsiveContainer, XAxis, YAxis } from 'recharts';
 
-import downloads from "../../../src/assets/icon-downloads.png";
-import Ratings from "../../../src/assets/icon-ratings.png";
-import Review from "../../../src/assets/icon-review.png";
-import Flex from "../../components/sharedLayout/Flex";
+import downloads from '../../../src/assets/icon-downloads.png';
+import Ratings from '../../../src/assets/icon-ratings.png';
+import Review from '../../../src/assets/icon-review.png';
+import Flex from '../../components/sharedLayout/Flex';
+
+// A reusable component for displaying a statistic with an icon, label, and value
+const StatCard = ({ icon, label, value }) => {
+  return (
+    <div className="text-center md:text-start">
+      <img src={icon} alt={label} className="mx-auto md:ms-0 w-8 md:w-10" />
+      <p className="mt-2 text-xs md:text-sm text-gray-500">{label}</p>
+      <div className="text-base md:text-[32px] font-extrabold">
+        {typeof value === 'number' ? value.toLocaleString() : value}
+      </div>
+    </div>
+  );
+};
 
 const AppDetails = () => {
   const [installed, setInstalled] = useState(false);
@@ -23,8 +36,7 @@ const AppDetails = () => {
   });
 
   useEffect(() => {
-    const installedApps =
-      JSON.parse(localStorage.getItem("installedApps")) || [];
+    const installedApps = JSON.parse(localStorage.getItem('installedApps')) || [];
     const isInstalled = installedApps.some((app) => app.id === ConvertedId);
     if (isInstalled) setInstalled(true);
   }, [ConvertedId]);
@@ -32,22 +44,20 @@ const AppDetails = () => {
   const handleClick = (app) => {
     setInstalled(true);
 
-    let installedApps = JSON.parse(localStorage.getItem("installedApps")) || [];
+    let installedApps = JSON.parse(localStorage.getItem('installedApps')) || [];
 
-    const isAlreadyInstalled = installedApps.some(
-      (installedApp) => installedApp.id === app.id
-    );
+    const isAlreadyInstalled = installedApps.some((installedApp) => installedApp.id === app.id);
 
     if (!isAlreadyInstalled) {
       installedApps.push(app);
-      localStorage.setItem("installedApps", JSON.stringify(installedApps));
+      localStorage.setItem('installedApps', JSON.stringify(installedApps));
 
-      toast.success("App Installed Successfully! 🎉", {
-        position: "top-right",
+      toast.success('App Installed Successfully! 🎉', {
+        position: 'top-right',
         autoClose: 2000,
       });
 
-      console.log("Installed App:", app);
+      console.log('Installed App:', app);
     }
   };
 
@@ -71,7 +81,7 @@ const AppDetails = () => {
                 {singleApp.companyName}: {singleApp.title}
               </h2>
               <p className="text-sm md:text-base mt-2">
-                Developed by{" "}
+                Developed by{' '}
                 <span className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
                   productive.io
                 </span>
@@ -79,50 +89,19 @@ const AppDetails = () => {
 
               <div className="border-t border-[#001931] w-full my-3"></div>
 
-              <Flex className="!flex-row justify-center md:justify-start gap-6 md:gap-10">
-                <div className="text-center">
-                  <img
-                    src={downloads}
-                    alt=""
-                    className="mx-auto w-8 md:w-10"
-                  />
-                  <p className="mt-2 text-sm text-gray-500">Downloads</p>
-                  <div className="text-xl md:text-[32px] font-extrabold">
-                    {singleApp.downloads.toLocaleString()}
-                  </div>
-                </div>
-
-                <div className="text-center">
-                  <img
-                    src={Ratings}
-                    alt=""
-                    className="mx-auto w-8 md:w-10"
-                  />
-                  <p className="mt-2 text-sm text-gray-500">Average Rating</p>
-                  <div className="text-xl md:text-[32px] font-extrabold">
-                    {singleApp.ratingAvg}
-                  </div>
-                </div>
-
-                <div className="text-center">
-                  <img
-                    src={Review}
-                    alt=""
-                    className="mx-auto w-8 md:w-10"
-                  />
-                  <p className="mt-2 text-sm text-gray-500">Total Reviews</p>
-                  <div className="text-xl md:text-[32px] font-extrabold">
-                    {singleApp.reviews.toLocaleString()}K
-                  </div>
-                </div>
+              <Flex className="flex-row! justify-center md:justify-start! gap-4! md:gap-10 my-4">
+                <StatCard icon={downloads} label="Downloads" value={singleApp.downloads} />
+                <StatCard icon={Ratings} label="Average Rating" value={singleApp.ratingAvg} />
+                <StatCard icon={Review} label="Total Reviews" value={`${singleApp.reviews}K`} />
               </Flex>
 
               <button
                 onClick={() => handleClick(singleApp)}
                 disabled={installed}
-                className="bg-[#00D390] py-3 md:py-4 px-5 md:px-6 rounded-lg text-white inline-block font-semibold mt-6 hover:bg-[#00b87c] transition-all duration-200 disabled:opacity-70 disabled:cursor-not-allowed"
+                className="bg-[#00D390] py-2 md:py-3 px-5 md:px-6 rounded-lg text-white inline-block font-semibold mt-6 hover:bg-[#00b87c] w-full md:w-auto
+                 transition-all duration-200 disabled:opacity-70 disabled:cursor-not-allowed"
               >
-                {installed ? "Installed" : `Install Now (${singleApp.size} MB)`}
+                {installed ? 'Installed' : `Install Now (${singleApp.size} MB)`}
               </button>
             </div>
           </Flex>
@@ -131,39 +110,27 @@ const AppDetails = () => {
 
           {/* Ratings Bar Chart */}
           <div className="bg-gray-50 p-4 md:p-5 rounded-xl shadow-sm mt-10 max-w-[1200px] mx-auto">
-            <h2 className="text-lg font-semibold mb-4 text-center md:text-left">
-              Ratings
-            </h2>
-            <ResponsiveContainer
-              width="100%"
-              height={250}
-            >
-              <BarChart
-                layout="vertical"
-                data={sortedRatings}
-                margin={{ top: 0, right: 20, left: 30, bottom: 0 }}
-              >
-                <XAxis type="number" />
-                <YAxis
-                  dataKey="name"
-                  type="category"
-                />
-                <Bar
-                  dataKey="count"
-                  fill="#FF8C00"
-                  radius={[4, 4, 4, 4]}
-                />
-              </BarChart>
-            </ResponsiveContainer>
+            <h2 className="text-lg font-semibold mb-4 text-center md:text-left">Ratings</h2>
+            <div className=" ml-[-36px] md:ml-[-44px]">
+              <ResponsiveContainer width="100%" height={250}>
+                <BarChart
+                  layout="vertical"
+                  data={sortedRatings}
+                  margin={{ top: 0, right: 20, left: 30, bottom: 0 }}
+                >
+                  <XAxis type="number" />
+                  <YAxis dataKey="name" type="category" />
+                  <Bar dataKey="count" fill="#FF8C00" radius={[4, 4, 4, 4]} />
+                </BarChart>
+              </ResponsiveContainer>
+            </div>
           </div>
 
           <div className="border-t border-[#001931] w-full my-6"></div>
 
           {/* Description */}
           <div className="px-2">
-            <h4 className="text-xl md:text-2xl font-bold mb-4 md:mb-6 text-left">
-              Description
-            </h4>
+            <h4 className="text-xl md:text-2xl font-bold mb-4 md:mb-6 text-left">Description</h4>
             <div className="space-y-4 text-justify md:text-left leading-relaxed text-gray-700">
               <p>{singleApp.description.slice(0, 600)}</p>
               <p>{singleApp.description.slice(600, 1200)}</p>

@@ -1,15 +1,15 @@
-import { useState, useEffect } from "react";
-import { useLoaderData, useNavigate } from "react-router";
-import AppNotFound from "../../components/AppNotFound/AppNotFound";
-import Card from "../../components/Card/Card";
-import Flex from "../../components/sharedLayout/Flex";
-import LoadingSpinner from "../../components/LoadingSpinner/LoadingSpinner";
+import { useState, useEffect } from 'react';
+import { useLoaderData, useNavigate } from 'react-router';
+import AppNotFound from '../../components/AppNotFound/AppNotFound';
+import Card from '../../components/Card/Card';
+import Flex from '../../components/sharedLayout/Flex';
+import LoadingSpinner from '../../components/LoadingSpinner/LoadingSpinner';
 
 const Apps = () => {
   const AppsData = useLoaderData();
   const navigate = useNavigate();
 
-  const [searchTerm, setSearchTerm] = useState("");
+  const [searchTerm, setSearchTerm] = useState('');
   const [filteredApps, setFilteredApps] = useState(AppsData);
   const [typing, setTyping] = useState(false);
 
@@ -19,9 +19,7 @@ const Apps = () => {
 
     const timeout = setTimeout(() => {
       const filtered = searchTerm
-        ? AppsData.filter((app) =>
-            app.title?.toLowerCase().includes(searchTerm.toLowerCase())
-          )
+        ? AppsData.filter((app) => app.title?.toLowerCase().includes(searchTerm.toLowerCase()))
         : AppsData;
 
       setFilteredApps(filtered);
@@ -39,7 +37,7 @@ const Apps = () => {
   return (
     <div className="py-10 md:py-[80px]">
       <div className="max-w-[1200px] mx-auto px-3 xl:px-0 text-center mb-3 md:mb-10">
-        <h2 className="text-xl md:text-5xl font-bold text-[#001931] md:mb-4">
+        <h2 className="text-2xl md:text-5xl font-bold text-[#001931] md:mb-4">
           Our All Applications
         </h2>
         <p className="md:text-xl text-[#627382]">
@@ -49,9 +47,7 @@ const Apps = () => {
 
       <div className="max-w-[1200px] mx-auto px-3 xl:px-0">
         <Flex className="justify-between items-center !flex-row mb-6">
-          <p className="font-semibold text-sm md:text-2xl">
-            ({filteredApps.length}) Apps Found
-          </p>
+          <p className="font-semibold text-sm md:text-2xl">({filteredApps.length}) Apps Found</p>
           <div>
             <label className="flex items-center border rounded-md overflow-hidden">
               <svg
@@ -64,24 +60,15 @@ const Apps = () => {
                 strokeLinecap="round"
                 strokeLinejoin="round"
               >
-                <circle
-                  cx="11"
-                  cy="11"
-                  r="8"
-                />
-                <line
-                  x1="21"
-                  y1="21"
-                  x2="16.65"
-                  y2="16.65"
-                />
+                <circle cx="11" cy="11" r="8" />
+                <line x1="21" y1="21" x2="16.65" y2="16.65" />
               </svg>
               <input
                 type="search"
                 placeholder="Search"
                 defaultValue={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
-                className="p-2 outline-none w-full"
+                className="py-1 px-3 outline-none w-full"
               />
             </label>
           </div>
@@ -92,10 +79,7 @@ const Apps = () => {
         ) : filteredApps.length > 0 ? (
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4 py-10">
             {filteredApps.map((app) => (
-              <Card
-                key={app.id}
-                appData={app}
-              />
+              <Card key={app.id} appData={app} />
             ))}
           </div>
         ) : (

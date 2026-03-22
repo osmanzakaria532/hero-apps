@@ -1,34 +1,35 @@
-import { createBrowserRouter } from "react-router";
+/* eslint-disable no-unused-vars */
+import { createBrowserRouter } from 'react-router-dom';
 
-import RootLayout from "../RootLayout/RootLayout";
-import AppDetails from "../pages/AppDetails/AppDetails";
-import Apps from "../pages/Apps/Apps";
-import ErrorPage from "../pages/ErrorPage/ErrorPage";
-import Home from "../pages/Home/Home";
-import Installation from "../pages/Installation/Installation";
+import RootLayout from '../RootLayout/RootLayout';
+import AppDetails from '../pages/AppDetails/AppDetails';
+import Apps from '../pages/Apps/Apps';
+import ErrorPage from '../pages/ErrorPage/ErrorPage';
+import Home from '../pages/Home/Home';
+import Installation from '../pages/Installation/Installation';
 
 export const router = createBrowserRouter([
   {
-    path: "/",
+    path: '/',
     Component: RootLayout,
     children: [
       {
         index: true,
-        loader: () => fetch("/appsData.json"),
+        loader: () => fetch('/appsData.json'),
         Component: Home,
       },
       {
-        path: "/apps",
-        loader: () => fetch("/appsData.json"),
+        path: '/apps',
+        loader: () => fetch('/appsData.json'),
         Component: Apps,
       },
       {
-        path: "/apps/appDetails/:id",
-        loader: ({ params }) => fetch("/appsData.json"),
+        path: '/apps/appDetails/:id',
+        loader: ({ params }) => fetch('/appsData.json'),
         Component: AppDetails,
       },
       {
-        path: "/installation",
+        path: '/installation',
         Component: Installation,
       },
     ],
